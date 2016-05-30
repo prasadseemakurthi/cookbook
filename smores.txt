@@ -2,4 +2,4 @@ this is a sample file being added to the git repository
 
 Adding a second line after inital commit to the same file
 
-
+testing the diff command
